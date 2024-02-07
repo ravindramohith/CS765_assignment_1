@@ -2,7 +2,6 @@ import random
 import networkx as nx
 import matplotlib.pyplot as plt
 
-n = 10
 
 def generate_graph(n, min_edges=random.choice([3, 4, 5, 6])):
     graph = [[False] * n for _ in range(n)]
@@ -77,12 +76,3 @@ def is_connected(graph):
     visited = [False] * len(graph)
     dfs(0)
     return all(visited)
-
-
-if __name__ == "__main__":
-    while True:
-        graph = generate_graph(n)
-        if is_connected(graph):
-            break
-
-    visualize_graph(graph)
