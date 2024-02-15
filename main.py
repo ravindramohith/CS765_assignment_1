@@ -1,9 +1,8 @@
-from graph import generate_graph, is_connected
+from network import Network
 
-n = 10
 
 if __name__ == "__main__":
-    while True:
-        graph = generate_graph(n)
-        if is_connected(graph):
-            break
+    net = Network(4, 0.1, 0.4, max_transactions=3, min_transactions_per_mining=3)
+    net.connect_peers()
+    net.generate_transactions()
+    net.print_blockchain()

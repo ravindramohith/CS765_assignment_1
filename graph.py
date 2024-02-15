@@ -76,3 +76,9 @@ def is_connected(graph):
     visited = [False] * len(graph)
     dfs(0)
     return all(visited)
+
+def generate_connected_graph(n):
+    while True:
+        graph = generate_graph(n)
+        if is_connected(graph):
+            return graph
