@@ -1,9 +1,10 @@
 from simulator import Simulator
+import sys
 
 if __name__ == "__main__":
 
     simulator = Simulator(
-        3,
+        sys.argv[1],
         0.2,
         0.5,
         min_transactions_per_mining=9,
