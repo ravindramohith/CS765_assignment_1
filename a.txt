@@ -1,0 +1,88 @@
+Node 0 Blockchain:
+Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Previous Block ID: None
+Transactions:
+Sender: 0, Receiver: 3, Amount: 19 TimeStamp 0
+Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1647.1300395109324
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 8773.87320823873
+
+Block ID: f12d08e64cee89917cfd4278e64229409ff9074d212fd5ad9a8ca5c1f1d0605b
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 1, Receiver: 0, Amount: 41 TimeStamp 0
+Sender: 1, Receiver: 2, Amount: 33 TimeStamp 24082.960289799976
+Sender: -1, Receiver: 1, Amount: 50 TimeStamp 37532.95726798079
+
+Block ID: 96de4b0dfcf21459fabd6e99628fe41b44779da52f03b83329289581a0e8f703
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 0, Receiver: 1, Amount: 3 TimeStamp 8772.87320823873
+Sender: 0, Receiver: 1, Amount: 22 TimeStamp 36470.83901302873
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 40632.8916745223
+
+Node 1 Blockchain:
+Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Previous Block ID: None
+Transactions:
+Sender: 0, Receiver: 3, Amount: 19 TimeStamp 0
+Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1647.1300395109324
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 8773.87320823873
+
+Block ID: f12d08e64cee89917cfd4278e64229409ff9074d212fd5ad9a8ca5c1f1d0605b
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 1, Receiver: 0, Amount: 41 TimeStamp 0
+Sender: 1, Receiver: 2, Amount: 33 TimeStamp 24082.960289799976
+Sender: -1, Receiver: 1, Amount: 50 TimeStamp 37532.95726798079
+
+Block ID: 96de4b0dfcf21459fabd6e99628fe41b44779da52f03b83329289581a0e8f703
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 0, Receiver: 1, Amount: 3 TimeStamp 8772.87320823873
+Sender: 0, Receiver: 1, Amount: 22 TimeStamp 36470.83901302873
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 40632.8916745223
+
+Node 2 Blockchain:
+Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Previous Block ID: None
+Transactions:
+Sender: 0, Receiver: 3, Amount: 19 TimeStamp 0
+Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1647.1300395109324
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 8773.87320823873
+
+Block ID: f12d08e64cee89917cfd4278e64229409ff9074d212fd5ad9a8ca5c1f1d0605b
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 1, Receiver: 0, Amount: 41 TimeStamp 0
+Sender: 1, Receiver: 2, Amount: 33 TimeStamp 24082.960289799976
+Sender: -1, Receiver: 1, Amount: 50 TimeStamp 37532.95726798079
+
+Block ID: 96de4b0dfcf21459fabd6e99628fe41b44779da52f03b83329289581a0e8f703
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 0, Receiver: 1, Amount: 3 TimeStamp 8772.87320823873
+Sender: 0, Receiver: 1, Amount: 22 TimeStamp 36470.83901302873
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 40632.8916745223
+
+Node 3 Blockchain:
+Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Previous Block ID: None
+Transactions:
+Sender: 0, Receiver: 3, Amount: 19 TimeStamp 0
+Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1647.1300395109324
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 8773.87320823873
+
+Block ID: f12d08e64cee89917cfd4278e64229409ff9074d212fd5ad9a8ca5c1f1d0605b
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 1, Receiver: 0, Amount: 41 TimeStamp 0
+Sender: 1, Receiver: 2, Amount: 33 TimeStamp 24082.960289799976
+Sender: -1, Receiver: 1, Amount: 50 TimeStamp 37532.95726798079
+
+Block ID: 96de4b0dfcf21459fabd6e99628fe41b44779da52f03b83329289581a0e8f703
+Previous Block ID: 547fd6f64f7450dbda1b0e7ebb0f725fd61c97912f542c0bf6dfa5f08802d253
+Transactions:
+Sender: 0, Receiver: 1, Amount: 3 TimeStamp 8772.87320823873
+Sender: 0, Receiver: 1, Amount: 22 TimeStamp 36470.83901302873
+Sender: -1, Receiver: 0, Amount: 50 TimeStamp 40632.8916745223
+

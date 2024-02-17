@@ -134,13 +134,13 @@ class Simulator:
 
     def print_blockchain(self):
         for node in self.nodes:
-            # print(f"Node {node.id} Blockchain:")
-            # for block in node.blockchain.blocks:
-            #     print("Block ID:", block.block_id)
-            #     print("Previous Block ID:", block.previous_block_id)
-            #     print("Transactions:")
-            #     for txn in block.transactions:
-            #         print(txn)
-            #     print()
+            print(f"Node {node.id} Blockchain:")
+            for block in node.blockchain.blocks:
+                print("Block ID:", block.block_id)
+                print("Previous Block ID:", block.previous_block_id)
+                print("Transactions:")
+                for txn in block.transactions:
+                    print(txn)
+                print()
 
             node.blockchain.visualize()

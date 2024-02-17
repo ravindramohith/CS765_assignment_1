@@ -1,6 +1,6 @@
 import hashlib
 import matplotlib.pyplot as plt
-
+import networkx as nx
 
 class Block:
     def __init__(self, block_id, previous_block_id, transactions):
@@ -64,15 +64,25 @@ class Blockchain:
         return None
 
     def visualize(self):
-        block_ids = [block.block_id for block in self.blocks]
-        previous_block_ids = [block.previous_block_id for block in self.blocks]
-        num_transactions = [len(block.transactions) for block in self.blocks]
+        # Create a directed graph
+        G = nx.DiGraph()
 
-        plt.figure(figsize=(10, 6))
-        plt.bar(range(len(self.blocks)), num_transactions, color="blue")
-        plt.xlabel("Block Index")
-        plt.ylabel("Number of Transactions")
+        # Add nodes and edges for each block
+        for block in self.blocks:
+            G.add_node(block.block_id)
+            if block.previous_block_id:
+                G.add_edge(block.block_id, block.previous_block_id)
+
+        # Plot the graph
+        pos = nx.spring_layout(G)  # Position nodes using the spring layout algorithm
+        nx.draw(
+            G,
+            pos,
+            with_labels=True,
+            node_size=1000,
+            node_color="lightblue",
+            font_size=1,
+            font_weight="bold",
+        )
         plt.title("Blockchain Visualization")
-        plt.xticks(range(len(self.blocks)), block_ids, rotation=45)
-        plt.tight_layout()
         plt.show()
