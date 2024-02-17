@@ -65,6 +65,7 @@ class Blockchain:
                 return block
         return None
 
+
     def visualize(self, node_id):
         G = nx.DiGraph()
 
@@ -76,7 +77,7 @@ class Blockchain:
         block_info = {block.block_id: block for block in self.blocks}
 
         plt.figure(figsize=(20, 10))  # Full screen mode
-        pos = nx.spring_layout(G) 
+        pos = nx.spring_layout(G)
 
         # Draw nodes for each block
         for i, node in enumerate(G.nodes()):
@@ -87,9 +88,8 @@ class Blockchain:
                 nodelist=[node],
                 node_size=1000,
                 node_shape="s",
-                node_color="lightblue",
+                node_color="red" if block.block_id == "0" else "lightgreen",
                 edgecolors="black",
-                # linewidths=2,
             )
 
             label = f"{block.block_id}"
@@ -97,8 +97,29 @@ class Blockchain:
                 G, pos, labels={node: label}, font_size=1, font_weight="bold"
             )
 
-        nx.draw_networkx_edges(G, pos, arrows=True, arrowsize=30)
-        plt.title(f"Peer {node_id}'s Blockchain Visualization")
+        for edge in G.edges():
+            x_start, y_start = pos[edge[0]]
+            x_end, y_end = pos[edge[1]]
+            x_mid = (x_start + x_end) / 2
+            y_mid = (y_start + y_end) / 2
+            arrow_pos = (x_mid, y_mid)
+            nx.draw_networkx_edges(
+                G,
+                pos,
+                edgelist=[edge],
+                width=1.0,
+                arrowsize=20,
+                arrowstyle="-|>",
+                # connectionstyle=f"arc3,rad=0.1",
+                ax=plt.gca(),
+            )
+            plt.gca().annotate(
+                "",
+                xy=(x_mid, y_mid),
+                xytext=(x_start, y_start),
+                arrowprops=dict(arrowstyle="->", color="black"),
+            )
 
+        plt.title(f"Peer {node_id}'s Blockchain Visualization")
         plt.axis("off")
         plt.show()

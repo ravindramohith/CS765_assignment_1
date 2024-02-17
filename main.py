@@ -6,15 +6,16 @@ if __name__ == "__main__":
         int(sys.argv[2]),
         float(sys.argv[4]),
         float(sys.argv[6]),
-        min_transactions_per_mining=999,
+        min_transactions_per_mining=10,
         transaction_mean_gap=int(sys.argv[8]),
-        max_events=10000,
+        max_events=1000,
     )
 
     simulator.simulate()
 
     if "--print-blockchain" in sys.argv:
         simulator.print_blockchain()
+        print("Blockchain written to file `blockchain.txt`")
 
     if "--visualize-blockchain" in sys.argv:
         index = input("Enter the index of the node you want to visualize: ")

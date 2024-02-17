@@ -37,5 +37,8 @@ class EventPriorityQueue:
     def pop(self):
         return heapq.heappop(self._queue)
 
+    def peek(self):
+        return self._queue[0] if self._queue else None
+
     def is_empty(self):
         return len(self._queue) == 0
