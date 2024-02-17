@@ -1,4 +1,5 @@
 import hashlib
+import matplotlib.pyplot as plt
 
 
 class Block:
@@ -61,3 +62,17 @@ class Blockchain:
             if block.block_id == block_id:
                 return block
         return None
+
+    def visualize(self):
+        block_ids = [block.block_id for block in self.blocks]
+        previous_block_ids = [block.previous_block_id for block in self.blocks]
+        num_transactions = [len(block.transactions) for block in self.blocks]
+
+        plt.figure(figsize=(10, 6))
+        plt.bar(range(len(self.blocks)), num_transactions, color="blue")
+        plt.xlabel("Block Index")
+        plt.ylabel("Number of Transactions")
+        plt.title("Blockchain Visualization")
+        plt.xticks(range(len(self.blocks)), block_ids, rotation=45)
+        plt.tight_layout()
+        plt.show()
