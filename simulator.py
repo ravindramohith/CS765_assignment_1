@@ -133,15 +133,17 @@ class Simulator:
             return False
 
     def print_blockchain(self):
-        for node in self.nodes:
-            print(f"Node {node.id} Blockchain:")
-            for block in node.blockchain.blocks:
-                print("Block ID:", block.block_id)
-                print("Previous Block ID:", block.previous_block_id)
-                print("Transactions:")
-                for txn in block.transactions:
-                    print(txn)
-                print()
+        with open("blockchain.txt", "w") as file:
+            for node in self.nodes:
+                file.write(f"Node {node.id} Blockchain:\n")
+                for block in node.blockchain.blocks:
+                    file.write("Block ID: " + str(block.block_id) + "\n")
+                    file.write("Previous Block ID: " + str(block.previous_block_id) + "\n")
+                    file.write("Transactions:\n")
+                    for txn in block.transactions:
+                        file.write(str(txn) + "\n")
+                    file.write("\n")
+
 
     def visualize(self):
         for node in self.nodes:
