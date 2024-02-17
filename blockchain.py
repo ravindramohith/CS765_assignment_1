@@ -1,5 +1,6 @@
 import hashlib
 
+
 class Block:
     def __init__(self, block_id, previous_block_id, transactions):
         self.block_id = block_id
@@ -31,9 +32,8 @@ class Blockchain:
         )
         block_id = hashlib.sha256(transactions_string.encode()).hexdigest()
 
-        # Determine the previous_block_id based on the longest chain in the blockchain
         if not self.blocks:
-            previous_block_id = None  # No blocks in the blockchain yet
+            previous_block_id = None
         else:
             longest_chain = self.get_longest_chain()
             previous_block_id = longest_chain[-1].block_id if longest_chain else None
@@ -43,9 +43,6 @@ class Blockchain:
         return new_block
 
     def get_longest_chain(self):
-        """
-        Get the longest chain in the blockchain.
-        """
         longest_chain = []
         for block in self.blocks:
             current_chain = [block]
@@ -60,9 +57,6 @@ class Blockchain:
         return longest_chain
 
     def find_block_by_id(self, block_id):
-        """
-        Find a block in the blockchain by its ID.
-        """
         for block in self.blocks:
             if block.block_id == block_id:
                 return block

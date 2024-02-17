@@ -1,6 +1,7 @@
 import random
 from graph import generate_connected_graph
 from peer import Node, Peer
+import numpy as np
 
 
 class Network:
@@ -20,17 +21,17 @@ class Network:
 
         self.peers = []
         self.nodes = []
-        # self.latencies = [[0 for _ in range(n)] for _ in range(n)]
+        self.latencies = [[0 for _ in range(n)] for _ in range(n)]
 
-        # for i in range(n):
-        #     for j in range(n):
-        #         if i != j:
-        #             ij = np.random.uniform(10, 500)
-        #             cij = 100 if (self.nodes[i].speed and self.nodes[j].speed) else 5
-        #             dij = np.random.exponential(96 / cij)
-        #             self.latencies[i][j] = ij + dij + (1 / cij)
-        #         else:
-        #             self.latencies[i][j] = 0
+        for i in range(n):
+            for j in range(n):
+                if i != j:
+                    ij = np.random.uniform(10, 500)
+                    cij = 100 if (self.nodes[i].speed and self.nodes[j].speed) else 5
+                    dij = np.random.exponential(96 / cij)
+                    self.latencies[i][j] = ij + dij
+                else:
+                    self.latencies[i][j] = 0
 
         speeds = generate_array_random(n, z0)
         CPU_speeds = generate_array_random(n, z1)
@@ -69,3 +70,7 @@ class Network:
                 for txn in block.transactions:
                     print(txn)
                 print()
+
+    def get_latency(self, i, j, messg_size=1):
+        cij = 100 if (self.nodes[i].speed and self.nodes[j].speed) else 5
+        return self.latencies[i][j] + messg_size / cij
