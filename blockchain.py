@@ -2,6 +2,7 @@ import hashlib
 import matplotlib.pyplot as plt
 import networkx as nx
 
+
 class Block:
     def __init__(self, block_id, previous_block_id, transactions):
         self.block_id = block_id
@@ -18,7 +19,8 @@ class Block:
 
 class Blockchain:
     def __init__(self):
-        self.blocks = []
+        self.genesis_block = Block("0", None, [])
+        self.blocks = [self.genesis_block]
 
     def add_block(self, block):
         self.blocks.append(block)
@@ -31,7 +33,7 @@ class Blockchain:
                 for txn in transactions[:-1]
             ]
         )
-        block_id = hashlib.sha256(transactions_string.encode()).hexdigest()
+        block_id = hashlib.sha1(transactions_string.encode()).hexdigest()
 
         if not self.blocks:
             previous_block_id = None
@@ -55,7 +57,7 @@ class Blockchain:
                     break
             if len(current_chain) > len(longest_chain):
                 longest_chain = current_chain
-        return longest_chain
+        return longest_chain[::-1]
 
     def find_block_by_id(self, block_id):
         for block in self.blocks:
@@ -71,18 +73,50 @@ class Blockchain:
         for block in self.blocks:
             G.add_node(block.block_id)
             if block.previous_block_id:
-                G.add_edge(block.block_id, block.previous_block_id)
+                G.add_edge(block.previous_block_id, block.block_id)
+
+        # Create a mapping of block IDs to block information for quick access
+        block_info = {block.block_id: block for block in self.blocks}
 
         # Plot the graph
+        plt.figure(figsize=(20, 10))  # Full screen mode
         pos = nx.spring_layout(G)  # Position nodes using the spring layout algorithm
-        nx.draw(
-            G,
-            pos,
-            with_labels=True,
-            node_size=1000,
-            node_color="lightblue",
-            font_size=1,
-            font_weight="bold",
-        )
+
+        # Draw nodes for each block
+        for node in G.nodes():
+            block = block_info[node]
+            transactions_text = self.get_transactions_text(block.transactions)
+            node_size = max(
+                1000, 100 + 50 * len(transactions_text.split("\n"))
+            )  # Adjust node size based on text length
+            nx.draw_networkx_nodes(
+                G,
+                pos,
+                nodelist=[node],
+                node_size=node_size,
+                node_shape="s",
+                node_color="lightblue",
+                # edgecolors="black",
+                # linewidths=2,
+            )
+
+            # Add label with block ID and transactions text
+            label = f"{block.block_id}"
+            nx.draw_networkx_labels(
+                G, pos, labels={node: label}, font_size=10, font_weight="bold"
+            )
+
+        # Draw directed edges with increased arrow size
+        nx.draw_networkx_edges(G, pos, arrows=True, arrowsize=50)
+
         plt.title("Blockchain Visualization")
+        plt.axis("off")  # Turn off axis
         plt.show()
+
+    def get_transactions_text(self, transactions):
+        if len(transactions) <= 3:
+            return "\n".join(str(txn) for txn in transactions)
+        else:
+            first_three = "\n".join(str(txn) for txn in transactions[:3])
+            remaining_count = len(transactions) - 3
+            return f"{first_three}\n\n{remaining_count} more..."
