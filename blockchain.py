@@ -65,58 +65,40 @@ class Blockchain:
                 return block
         return None
 
-    def visualize(self):
-        # Create a directed graph
+    def visualize(self, node_id):
         G = nx.DiGraph()
 
-        # Add nodes and edges for each block
         for block in self.blocks:
             G.add_node(block.block_id)
             if block.previous_block_id:
                 G.add_edge(block.previous_block_id, block.block_id)
 
-        # Create a mapping of block IDs to block information for quick access
         block_info = {block.block_id: block for block in self.blocks}
 
-        # Plot the graph
         plt.figure(figsize=(20, 10))  # Full screen mode
-        pos = nx.spring_layout(G)  # Position nodes using the spring layout algorithm
+        pos = nx.spring_layout(G) 
 
         # Draw nodes for each block
-        for node in G.nodes():
+        for i, node in enumerate(G.nodes()):
             block = block_info[node]
-            transactions_text = self.get_transactions_text(block.transactions)
-            node_size = max(
-                1000, 100 + 50 * len(transactions_text.split("\n"))
-            )  # Adjust node size based on text length
             nx.draw_networkx_nodes(
                 G,
                 pos,
                 nodelist=[node],
-                node_size=node_size,
+                node_size=1000,
                 node_shape="s",
                 node_color="lightblue",
-                # edgecolors="black",
+                edgecolors="black",
                 # linewidths=2,
             )
 
-            # Add label with block ID and transactions text
             label = f"{block.block_id}"
             nx.draw_networkx_labels(
-                G, pos, labels={node: label}, font_size=10, font_weight="bold"
+                G, pos, labels={node: label}, font_size=1, font_weight="bold"
             )
 
-        # Draw directed edges with increased arrow size
-        nx.draw_networkx_edges(G, pos, arrows=True, arrowsize=50)
+        nx.draw_networkx_edges(G, pos, arrows=True, arrowsize=30)
+        plt.title(f"Peer {node_id}'s Blockchain Visualization")
 
-        plt.title("Blockchain Visualization")
-        plt.axis("off")  # Turn off axis
+        plt.axis("off")
         plt.show()
-
-    def get_transactions_text(self, transactions):
-        if len(transactions) <= 3:
-            return "\n".join(str(txn) for txn in transactions)
-        else:
-            first_three = "\n".join(str(txn) for txn in transactions[:3])
-            remaining_count = len(transactions) - 3
-            return f"{first_three}\n\n{remaining_count} more..."
