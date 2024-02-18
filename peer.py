@@ -74,7 +74,18 @@ class Node:
         self.simulator.longest_chains[self.simulator.nodes.index(self)] = (
             self.blockchain.get_longest_chain()
         )
-        self.propagate_block(new_block, time)
+        self.simulator.priority_queue.push(
+            Event(
+                self,
+                "propagate_block",
+                {
+                    "block": new_block,
+                    "time": time,
+                },
+                time,
+            )
+        )
+        # self.propagate_block(new_block, time)
         self.transaction_pool = []  # Clear the transaction pool
         return new_block
 
@@ -180,7 +191,7 @@ class Peer:
         self.node.receive_block(block, time)
 
     def receive_transaction(self, transaction, time):
-        # Forward the received transaction to the node
+        # Forward the received transaction to the node'
         self.node.receive_transaction(transaction, time)
 
     def mine_block(self):
@@ -196,11 +207,21 @@ class Peer:
 
     def broadcast_transaction(self, transaction, time):
         # Broadcast a transaction to other peers
-        self.simulator.priority_queue.push(
-            Event(
-                self.node,
-                "receive_transaction",
-                {"transaction": transaction, "time": time},
-                time,
+        for peer in self.connections:
+            self.simulator.priority_queue.push(
+                Event(
+                    peer,
+                    "receive_transaction",
+                    {"transaction": transaction, "time": time},
+                    time,
+                )
             )
-        )
+            # peer.receive_transaction(transaction, time)
+        # self.simulator.priority_queue.push(
+        #     Event(
+        #         self,
+        #         "receive_transaction",
+        #         {"transaction": transaction, "time": time},
+        #         time,
+        #     )
+        # )

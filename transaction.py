@@ -6,4 +6,4 @@ class Transaction:
         self.timestamp = timestamp
 
     def __str__(self) -> str:
-        return f"Sender: {self.sender}, Receiver: {self.receiver}, Amount: {self.amount} TimeStamp {self.timestamp}"
+        return f"TxnID: ID{self.sender} pays ID{self.receiver} {self.amount} coins"

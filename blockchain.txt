@@ -3,1045 +3,1223 @@ Block ID: 0
 Previous Block ID: None
 Transactions:
 
-Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: ec815256cbd53c1aca7626c7575739fa7ffa1817
 Previous Block ID: 0
 Transactions:
-Sender: 2, Receiver: 1, Amount: 9 TimeStamp 0
-Sender: 2, Receiver: 0, Amount: 37 TimeStamp 211.4402310517871
-Sender: 2, Receiver: 1, Amount: 4 TimeStamp 564.4691829313081
-Sender: 2, Receiver: 3, Amount: 32 TimeStamp 721.7387381835806
-Sender: 2, Receiver: 3, Amount: 31 TimeStamp 910.3202735873122
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 1050.2780756058874
-Sender: 2, Receiver: 1, Amount: 38 TimeStamp 1083.0189641140169
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 1196.5214710102225
-Sender: 2, Receiver: 3, Amount: 26 TimeStamp 1279.994621846525
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 1325.1166906196638
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 1367.9784954824167
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
+Previous Block ID: 0
 Transactions:
-Sender: 0, Receiver: 1, Amount: 34 TimeStamp 0
-Sender: 0, Receiver: 3, Amount: 36 TimeStamp 231.71437159712187
-Sender: 0, Receiver: 1, Amount: 29 TimeStamp 389.6736916453382
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 434.86347461331724
-Sender: 0, Receiver: 1, Amount: 11 TimeStamp 801.031819122034
-Sender: 0, Receiver: 1, Amount: 7 TimeStamp 996.0172740653092
-Sender: 0, Receiver: 2, Amount: 29 TimeStamp 1035.662051866848
-Sender: 0, Receiver: 1, Amount: 17 TimeStamp 1083.6581836618807
-Sender: 0, Receiver: 1, Amount: 23 TimeStamp 1104.8809064609925
-Sender: 0, Receiver: 3, Amount: 18 TimeStamp 1340.516727956394
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 1559.2207118464992
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: dac58b7ee9fb4535ef3d5bbc79abdaaba3b66e0a
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
+Previous Block ID: 0
 Transactions:
-Sender: 3, Receiver: 2, Amount: 23 TimeStamp 0
-Sender: 3, Receiver: 0, Amount: 12 TimeStamp 10.129186512229147
-Sender: 3, Receiver: 0, Amount: 42 TimeStamp 53.65725202225437
-Sender: 3, Receiver: 0, Amount: 39 TimeStamp 60.89241034305722
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 779.9305044206727
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 863.022810427633
-Sender: 3, Receiver: 1, Amount: 20 TimeStamp 1252.8630915691515
-Sender: 3, Receiver: 0, Amount: 10 TimeStamp 1399.1300358389785
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 1417.00948365592
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 1513.5634077362924
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 1583.8987450131833
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID1 pays ID2 22 coins
+TxnID: ID1 pays ID2 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
-Previous Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
+Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
+Previous Block ID: 0
 Transactions:
-Sender: 1, Receiver: 0, Amount: 50 TimeStamp 0
-Sender: 1, Receiver: 3, Amount: 20 TimeStamp 351.5995371805187
-Sender: 1, Receiver: 0, Amount: 38 TimeStamp 449.8178795183509
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 623.4651715983998
-Sender: 1, Receiver: 2, Amount: 44 TimeStamp 912.5006957983874
-Sender: 1, Receiver: 3, Amount: 40 TimeStamp 1162.728335085161
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 1797.1664491448469
-Sender: 1, Receiver: 3, Amount: 10 TimeStamp 1870.3017659247257
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 1874.1923242697649
-Sender: 1, Receiver: 2, Amount: 48 TimeStamp 2097.2295540264486
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 2130.810255855553
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
+Previous Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
 Transactions:
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 1582.8987450131833
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 1604.7334298853996
-Sender: 3, Receiver: 0, Amount: 18 TimeStamp 1630.9470990277132
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1640.929661675817
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1807.234037213349
-Sender: 3, Receiver: 1, Amount: 5 TimeStamp 1807.970546998546
-Sender: 3, Receiver: 2, Amount: 7 TimeStamp 1961.007987424881
-Sender: 3, Receiver: 2, Amount: 47 TimeStamp 2225.3186990656386
-Sender: 3, Receiver: 2, Amount: 19 TimeStamp 2283.6906282335385
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 2558.822554079603
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 2598.808407175146
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
-Previous Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
+Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
+Previous Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
 Transactions:
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1558.2207118464992
-Sender: 0, Receiver: 1, Amount: 14 TimeStamp 1681.2523781909401
-Sender: 0, Receiver: 2, Amount: 25 TimeStamp 2242.3532194725276
-Sender: 0, Receiver: 2, Amount: 9 TimeStamp 2432.4877972891645
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 2452.612252113461
-Sender: 0, Receiver: 2, Amount: 44 TimeStamp 2480.932734188573
-Sender: 0, Receiver: 3, Amount: 40 TimeStamp 2513.4264878942395
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 2542.026636960431
-Sender: 0, Receiver: 3, Amount: 5 TimeStamp 2577.6858577607245
-Sender: 0, Receiver: 3, Amount: 28 TimeStamp 2671.876393821805
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 2918.0066180499234
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: a61b319a3647a3b31e840f407eac3c28fe64bcf0
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: fef2b293c36e12cdcb21b9b3769f94361003dfab
+Previous Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 1366.9784954824167
-Sender: 2, Receiver: 1, Amount: 37 TimeStamp 1531.7949197148841
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 1560.7502061155626
-Sender: 2, Receiver: 0, Amount: 21 TimeStamp 1863.059285429155
-Sender: 2, Receiver: 1, Amount: 12 TimeStamp 2057.586331753788
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 2073.9998024448346
-Sender: 2, Receiver: 1, Amount: 21 TimeStamp 2548.2017675473703
-Sender: 2, Receiver: 3, Amount: 1 TimeStamp 2685.477524164946
-Sender: 2, Receiver: 1, Amount: 2 TimeStamp 2722.1150534008925
-Sender: 2, Receiver: 3, Amount: 6 TimeStamp 2741.0706802445034
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 2771.125664024033
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
+Previous Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
 Transactions:
-Sender: 0, Receiver: 3, Amount: 23 TimeStamp 2917.0066180499234
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3073.568661599854
-Sender: 0, Receiver: 2, Amount: 48 TimeStamp 3146.5066574246466
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3161.9730074755153
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 3284.3118923559596
-Sender: 0, Receiver: 2, Amount: 3 TimeStamp 3374.451915867863
-Sender: 0, Receiver: 1, Amount: 10 TimeStamp 3380.602639284696
-Sender: 0, Receiver: 3, Amount: 49 TimeStamp 3381.6356643898157
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3526.50877226488
-Sender: 0, Receiver: 3, Amount: 19 TimeStamp 3585.9724683048785
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 3633.703407803741
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID2 pays ID0 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 275014db18f2a8a902794ee948e0cbbbc70baf7b
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
+Previous Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
 Transactions:
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 2597.808407175146
-Sender: 3, Receiver: 0, Amount: 27 TimeStamp 2785.1693879961895
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 2837.6693195625376
-Sender: 3, Receiver: 2, Amount: 36 TimeStamp 3006.577346006997
-Sender: 3, Receiver: 2, Amount: 9 TimeStamp 3057.676886973584
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 3087.2714206845203
-Sender: 3, Receiver: 1, Amount: 8 TimeStamp 3087.5692041117263
-Sender: 3, Receiver: 2, Amount: 39 TimeStamp 3317.084255885169
-Sender: 3, Receiver: 2, Amount: 5 TimeStamp 3319.7153262247402
-Sender: 3, Receiver: 0, Amount: 33 TimeStamp 3367.4791277264276
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 3536.130216001896
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID1 pays ID0 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 480b859064ababa53653857c26da43ce8d11202e
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 2, Receiver: 0, Amount: 12 TimeStamp 2770.125664024033
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 2790.829284608529
-Sender: 2, Receiver: 3, Amount: 43 TimeStamp 2871.783257889354
-Sender: 2, Receiver: 3, Amount: 21 TimeStamp 2903.837113753175
-Sender: 2, Receiver: 3, Amount: 12 TimeStamp 2951.6537627067037
-Sender: 2, Receiver: 1, Amount: 5 TimeStamp 2966.0417862608297
-Sender: 2, Receiver: 1, Amount: 40 TimeStamp 3128.74039906932
-Sender: 2, Receiver: 3, Amount: 33 TimeStamp 3336.4497139030536
-Sender: 2, Receiver: 1, Amount: 8 TimeStamp 3416.7096239769485
-Sender: 2, Receiver: 1, Amount: 6 TimeStamp 3455.4255726925676
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 3608.4327871575133
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID2 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
-Previous Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
+Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 2129.810255855553
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 2265.8161750214067
-Sender: 1, Receiver: 2, Amount: 35 TimeStamp 2468.532707767321
-Sender: 1, Receiver: 0, Amount: 11 TimeStamp 2626.3437996874145
-Sender: 1, Receiver: 3, Amount: 28 TimeStamp 3547.5832099817117
-Sender: 1, Receiver: 0, Amount: 47 TimeStamp 3694.8250827804777
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 3803.1509437283935
-Sender: 1, Receiver: 2, Amount: 8 TimeStamp 4103.319012226016
-Sender: 1, Receiver: 0, Amount: 13 TimeStamp 4104.059373234161
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 4219.422544055673
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 4588.341286849987
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: cb063461f3fa40e948246b0c07555ba72a566934
-Previous Block ID: 480b859064ababa53653857c26da43ce8d11202e
+Block ID: 2c235fc4cfc05ee922040a883c1424baba5f332c
+Previous Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
 Transactions:
-Sender: 2, Receiver: 1, Amount: 44 TimeStamp 3607.4327871575133
-Sender: 2, Receiver: 1, Amount: 1 TimeStamp 3806.928306272053
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 4031.827281379555
-Sender: 2, Receiver: 0, Amount: 29 TimeStamp 4057.0222030680825
-Sender: 2, Receiver: 3, Amount: 5 TimeStamp 4080.9860642579606
-Sender: 2, Receiver: 0, Amount: 32 TimeStamp 4106.921770348615
-Sender: 2, Receiver: 1, Amount: 26 TimeStamp 4241.108488869627
-Sender: 2, Receiver: 0, Amount: 20 TimeStamp 4410.228811525716
-Sender: 2, Receiver: 1, Amount: 34 TimeStamp 4465.320232811577
-Sender: 2, Receiver: 3, Amount: 19 TimeStamp 4652.018189460976
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 4685.160815602129
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: c703c9393dd940a539ec8b11395fa9253d008af7
-Previous Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
+Block ID: 5369be25e79b608eae4d4ceaf5effb46422fad08
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 0, Receiver: 3, Amount: 6 TimeStamp 3632.703407803741
-Sender: 0, Receiver: 3, Amount: 44 TimeStamp 3886.866694383516
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3977.883185667234
-Sender: 0, Receiver: 2, Amount: 31 TimeStamp 4450.258976139673
-Sender: 0, Receiver: 1, Amount: 38 TimeStamp 4526.54643169154
-Sender: 0, Receiver: 1, Amount: 3 TimeStamp 4691.09134739533
-Sender: 0, Receiver: 2, Amount: 14 TimeStamp 4812.260389761802
-Sender: 0, Receiver: 2, Amount: 17 TimeStamp 4885.04928582927
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5095.328651213318
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 5352.6886647971005
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 5451.262147738224
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
-Previous Block ID: cb063461f3fa40e948246b0c07555ba72a566934
+Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
+Previous Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
 Transactions:
-Sender: 3, Receiver: 0, Amount: 31 TimeStamp 3535.130216001896
-Sender: 3, Receiver: 2, Amount: 34 TimeStamp 4225.44350451206
-Sender: 3, Receiver: 0, Amount: 34 TimeStamp 4310.937411040863
-Sender: 3, Receiver: 0, Amount: 44 TimeStamp 4455.333813971398
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 4460.17649611427
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 4566.307056423376
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 4732.087114412732
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 4750.960133745156
-Sender: 3, Receiver: 0, Amount: 48 TimeStamp 4882.676331835484
-Sender: 3, Receiver: 0, Amount: 38 TimeStamp 5023.720120695743
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 5301.749828178816
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID1 pays ID2 15 coins
+TxnID: ID1 pays ID2 40 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
-Previous Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
+Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
+Previous Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
 Transactions:
-Sender: 1, Receiver: 0, Amount: 15 TimeStamp 4587.341286849987
-Sender: 1, Receiver: 2, Amount: 42 TimeStamp 4593.794637598344
-Sender: 1, Receiver: 3, Amount: 18 TimeStamp 4929.354693583539
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 5143.120214732079
-Sender: 1, Receiver: 0, Amount: 7 TimeStamp 5464.225196295675
-Sender: 1, Receiver: 2, Amount: 21 TimeStamp 5515.7108109508035
-Sender: 1, Receiver: 0, Amount: 35 TimeStamp 5644.590642581985
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 5682.565375674386
-Sender: 1, Receiver: 2, Amount: 11 TimeStamp 5719.564893738885
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 5842.120544604866
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 5944.661066208066
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID0 pays ID2 25 coins
+TxnID: ID0 pays ID1 48 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
-Previous Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
+Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Previous Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 4684.160815602129
-Sender: 2, Receiver: 3, Amount: 34 TimeStamp 4800.514348243331
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 4845.0019247820255
-Sender: 2, Receiver: 3, Amount: 40 TimeStamp 4880.318320766841
-Sender: 2, Receiver: 3, Amount: 8 TimeStamp 5453.657433388996
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 5558.414286595155
-Sender: 2, Receiver: 0, Amount: 41 TimeStamp 5626.0924326601535
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 5669.600437391241
-Sender: 2, Receiver: 1, Amount: 32 TimeStamp 5673.793466671407
-Sender: 2, Receiver: 3, Amount: 44 TimeStamp 5809.635091622627
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 6118.929261196861
+TxnID: ID3 pays ID2 6 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID2 pays ID0 32 coins
+TxnID: ID2 pays ID3 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 4ffca74d6b00759e8a9d98d7279412135c5f25f9
-Previous Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
+Block ID: de6a803a66472519ddf4822d445eab5b7694b1db
+Previous Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
 Transactions:
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5450.262147738224
-Sender: 0, Receiver: 3, Amount: 4 TimeStamp 5484.326087242117
-Sender: 0, Receiver: 2, Amount: 6 TimeStamp 5540.95754819333
-Sender: 0, Receiver: 2, Amount: 40 TimeStamp 5639.868875104565
-Sender: 0, Receiver: 2, Amount: 38 TimeStamp 5659.947125184362
-Sender: 0, Receiver: 2, Amount: 33 TimeStamp 5661.090601292534
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 5907.723247446765
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 6068.599225486245
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 6331.497999825496
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID0 pays ID2 47 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID0 pays ID3 32 coins
+TxnID: ID-1 pays ID3 50 coins
+
+Block ID: 4a38249cb12892e86e2f1102c26cf08f242cc939
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID1 pays ID3 38 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID2 45 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID-1 pays ID0 50 coins
+
+Block ID: ce14846f2ae64085d79aed23caa2c3fb285393e4
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID0 pays ID1 40 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID3 pays ID0 32 coins
+TxnID: ID-1 pays ID1 50 coins
+
+Block ID: da39a3ee5e6b4b0d3255bfef95601890afd80709
+Previous Block ID: d96188855aa50e2c144c6c590baab08ae3aa4d53
+Transactions:
+TxnID: ID-1 pays ID2 50 coins
+
+Block ID: d96188855aa50e2c144c6c590baab08ae3aa4d53
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID1 pays ID3 38 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID0 pays ID1 40 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID1 pays ID2 45 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID3 pays ID0 32 coins
+TxnID: ID3 pays ID1 24 coins
+TxnID: ID-1 pays ID2 50 coins
 
 Node 1 Blockchain:
 Block ID: 0
 Previous Block ID: None
 Transactions:
 
-Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
 Previous Block ID: 0
 Transactions:
-Sender: 2, Receiver: 1, Amount: 9 TimeStamp 0
-Sender: 2, Receiver: 0, Amount: 37 TimeStamp 211.4402310517871
-Sender: 2, Receiver: 1, Amount: 4 TimeStamp 564.4691829313081
-Sender: 2, Receiver: 3, Amount: 32 TimeStamp 721.7387381835806
-Sender: 2, Receiver: 3, Amount: 31 TimeStamp 910.3202735873122
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 1050.2780756058874
-Sender: 2, Receiver: 1, Amount: 38 TimeStamp 1083.0189641140169
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 1196.5214710102225
-Sender: 2, Receiver: 3, Amount: 26 TimeStamp 1279.994621846525
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 1325.1166906196638
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 1367.9784954824167
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: ec815256cbd53c1aca7626c7575739fa7ffa1817
+Previous Block ID: 0
 Transactions:
-Sender: 0, Receiver: 1, Amount: 34 TimeStamp 0
-Sender: 0, Receiver: 3, Amount: 36 TimeStamp 231.71437159712187
-Sender: 0, Receiver: 1, Amount: 29 TimeStamp 389.6736916453382
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 434.86347461331724
-Sender: 0, Receiver: 1, Amount: 11 TimeStamp 801.031819122034
-Sender: 0, Receiver: 1, Amount: 7 TimeStamp 996.0172740653092
-Sender: 0, Receiver: 2, Amount: 29 TimeStamp 1035.662051866848
-Sender: 0, Receiver: 1, Amount: 17 TimeStamp 1083.6581836618807
-Sender: 0, Receiver: 1, Amount: 23 TimeStamp 1104.8809064609925
-Sender: 0, Receiver: 3, Amount: 18 TimeStamp 1340.516727956394
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 1559.2207118464992
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: dac58b7ee9fb4535ef3d5bbc79abdaaba3b66e0a
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
+Previous Block ID: 0
 Transactions:
-Sender: 3, Receiver: 2, Amount: 23 TimeStamp 0
-Sender: 3, Receiver: 0, Amount: 12 TimeStamp 10.129186512229147
-Sender: 3, Receiver: 0, Amount: 42 TimeStamp 53.65725202225437
-Sender: 3, Receiver: 0, Amount: 39 TimeStamp 60.89241034305722
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 779.9305044206727
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 863.022810427633
-Sender: 3, Receiver: 1, Amount: 20 TimeStamp 1252.8630915691515
-Sender: 3, Receiver: 0, Amount: 10 TimeStamp 1399.1300358389785
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 1417.00948365592
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 1513.5634077362924
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 1583.8987450131833
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID1 pays ID2 22 coins
+TxnID: ID1 pays ID2 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
-Previous Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
+Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
+Previous Block ID: 0
 Transactions:
-Sender: 1, Receiver: 0, Amount: 50 TimeStamp 0
-Sender: 1, Receiver: 3, Amount: 20 TimeStamp 351.5995371805187
-Sender: 1, Receiver: 0, Amount: 38 TimeStamp 449.8178795183509
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 623.4651715983998
-Sender: 1, Receiver: 2, Amount: 44 TimeStamp 912.5006957983874
-Sender: 1, Receiver: 3, Amount: 40 TimeStamp 1162.728335085161
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 1797.1664491448469
-Sender: 1, Receiver: 3, Amount: 10 TimeStamp 1870.3017659247257
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 1874.1923242697649
-Sender: 1, Receiver: 2, Amount: 48 TimeStamp 2097.2295540264486
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 2130.810255855553
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
+Previous Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
 Transactions:
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 1582.8987450131833
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 1604.7334298853996
-Sender: 3, Receiver: 0, Amount: 18 TimeStamp 1630.9470990277132
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1640.929661675817
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1807.234037213349
-Sender: 3, Receiver: 1, Amount: 5 TimeStamp 1807.970546998546
-Sender: 3, Receiver: 2, Amount: 7 TimeStamp 1961.007987424881
-Sender: 3, Receiver: 2, Amount: 47 TimeStamp 2225.3186990656386
-Sender: 3, Receiver: 2, Amount: 19 TimeStamp 2283.6906282335385
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 2558.822554079603
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 2598.808407175146
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: a61b319a3647a3b31e840f407eac3c28fe64bcf0
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
+Previous Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 1366.9784954824167
-Sender: 2, Receiver: 1, Amount: 37 TimeStamp 1531.7949197148841
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 1560.7502061155626
-Sender: 2, Receiver: 0, Amount: 21 TimeStamp 1863.059285429155
-Sender: 2, Receiver: 1, Amount: 12 TimeStamp 2057.586331753788
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 2073.9998024448346
-Sender: 2, Receiver: 1, Amount: 21 TimeStamp 2548.2017675473703
-Sender: 2, Receiver: 3, Amount: 1 TimeStamp 2685.477524164946
-Sender: 2, Receiver: 1, Amount: 2 TimeStamp 2722.1150534008925
-Sender: 2, Receiver: 3, Amount: 6 TimeStamp 2741.0706802445034
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 2771.125664024033
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
-Previous Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
+Block ID: fef2b293c36e12cdcb21b9b3769f94361003dfab
+Previous Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
 Transactions:
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1558.2207118464992
-Sender: 0, Receiver: 1, Amount: 14 TimeStamp 1681.2523781909401
-Sender: 0, Receiver: 2, Amount: 25 TimeStamp 2242.3532194725276
-Sender: 0, Receiver: 2, Amount: 9 TimeStamp 2432.4877972891645
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 2452.612252113461
-Sender: 0, Receiver: 2, Amount: 44 TimeStamp 2480.932734188573
-Sender: 0, Receiver: 3, Amount: 40 TimeStamp 2513.4264878942395
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 2542.026636960431
-Sender: 0, Receiver: 3, Amount: 5 TimeStamp 2577.6858577607245
-Sender: 0, Receiver: 3, Amount: 28 TimeStamp 2671.876393821805
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 2918.0066180499234
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
+Previous Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
 Transactions:
-Sender: 0, Receiver: 3, Amount: 23 TimeStamp 2917.0066180499234
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3073.568661599854
-Sender: 0, Receiver: 2, Amount: 48 TimeStamp 3146.5066574246466
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3161.9730074755153
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 3284.3118923559596
-Sender: 0, Receiver: 2, Amount: 3 TimeStamp 3374.451915867863
-Sender: 0, Receiver: 1, Amount: 10 TimeStamp 3380.602639284696
-Sender: 0, Receiver: 3, Amount: 49 TimeStamp 3381.6356643898157
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3526.50877226488
-Sender: 0, Receiver: 3, Amount: 19 TimeStamp 3585.9724683048785
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 3633.703407803741
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID2 pays ID0 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 275014db18f2a8a902794ee948e0cbbbc70baf7b
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
+Previous Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
 Transactions:
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 2597.808407175146
-Sender: 3, Receiver: 0, Amount: 27 TimeStamp 2785.1693879961895
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 2837.6693195625376
-Sender: 3, Receiver: 2, Amount: 36 TimeStamp 3006.577346006997
-Sender: 3, Receiver: 2, Amount: 9 TimeStamp 3057.676886973584
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 3087.2714206845203
-Sender: 3, Receiver: 1, Amount: 8 TimeStamp 3087.5692041117263
-Sender: 3, Receiver: 2, Amount: 39 TimeStamp 3317.084255885169
-Sender: 3, Receiver: 2, Amount: 5 TimeStamp 3319.7153262247402
-Sender: 3, Receiver: 0, Amount: 33 TimeStamp 3367.4791277264276
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 3536.130216001896
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID1 pays ID0 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 480b859064ababa53653857c26da43ce8d11202e
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 2, Receiver: 0, Amount: 12 TimeStamp 2770.125664024033
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 2790.829284608529
-Sender: 2, Receiver: 3, Amount: 43 TimeStamp 2871.783257889354
-Sender: 2, Receiver: 3, Amount: 21 TimeStamp 2903.837113753175
-Sender: 2, Receiver: 3, Amount: 12 TimeStamp 2951.6537627067037
-Sender: 2, Receiver: 1, Amount: 5 TimeStamp 2966.0417862608297
-Sender: 2, Receiver: 1, Amount: 40 TimeStamp 3128.74039906932
-Sender: 2, Receiver: 3, Amount: 33 TimeStamp 3336.4497139030536
-Sender: 2, Receiver: 1, Amount: 8 TimeStamp 3416.7096239769485
-Sender: 2, Receiver: 1, Amount: 6 TimeStamp 3455.4255726925676
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 3608.4327871575133
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
-Previous Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
+Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 2129.810255855553
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 2265.8161750214067
-Sender: 1, Receiver: 2, Amount: 35 TimeStamp 2468.532707767321
-Sender: 1, Receiver: 0, Amount: 11 TimeStamp 2626.3437996874145
-Sender: 1, Receiver: 3, Amount: 28 TimeStamp 3547.5832099817117
-Sender: 1, Receiver: 0, Amount: 47 TimeStamp 3694.8250827804777
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 3803.1509437283935
-Sender: 1, Receiver: 2, Amount: 8 TimeStamp 4103.319012226016
-Sender: 1, Receiver: 0, Amount: 13 TimeStamp 4104.059373234161
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 4219.422544055673
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 4588.341286849987
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID2 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: cb063461f3fa40e948246b0c07555ba72a566934
-Previous Block ID: 480b859064ababa53653857c26da43ce8d11202e
+Block ID: 2c235fc4cfc05ee922040a883c1424baba5f332c
+Previous Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
 Transactions:
-Sender: 2, Receiver: 1, Amount: 44 TimeStamp 3607.4327871575133
-Sender: 2, Receiver: 1, Amount: 1 TimeStamp 3806.928306272053
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 4031.827281379555
-Sender: 2, Receiver: 0, Amount: 29 TimeStamp 4057.0222030680825
-Sender: 2, Receiver: 3, Amount: 5 TimeStamp 4080.9860642579606
-Sender: 2, Receiver: 0, Amount: 32 TimeStamp 4106.921770348615
-Sender: 2, Receiver: 1, Amount: 26 TimeStamp 4241.108488869627
-Sender: 2, Receiver: 0, Amount: 20 TimeStamp 4410.228811525716
-Sender: 2, Receiver: 1, Amount: 34 TimeStamp 4465.320232811577
-Sender: 2, Receiver: 3, Amount: 19 TimeStamp 4652.018189460976
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 4685.160815602129
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
-Previous Block ID: cb063461f3fa40e948246b0c07555ba72a566934
+Block ID: 5369be25e79b608eae4d4ceaf5effb46422fad08
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 3, Receiver: 0, Amount: 31 TimeStamp 3535.130216001896
-Sender: 3, Receiver: 2, Amount: 34 TimeStamp 4225.44350451206
-Sender: 3, Receiver: 0, Amount: 34 TimeStamp 4310.937411040863
-Sender: 3, Receiver: 0, Amount: 44 TimeStamp 4455.333813971398
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 4460.17649611427
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 4566.307056423376
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 4732.087114412732
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 4750.960133745156
-Sender: 3, Receiver: 0, Amount: 48 TimeStamp 4882.676331835484
-Sender: 3, Receiver: 0, Amount: 38 TimeStamp 5023.720120695743
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 5301.749828178816
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: c703c9393dd940a539ec8b11395fa9253d008af7
-Previous Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
+Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
+Previous Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
 Transactions:
-Sender: 0, Receiver: 3, Amount: 6 TimeStamp 3632.703407803741
-Sender: 0, Receiver: 3, Amount: 44 TimeStamp 3886.866694383516
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3977.883185667234
-Sender: 0, Receiver: 2, Amount: 31 TimeStamp 4450.258976139673
-Sender: 0, Receiver: 1, Amount: 38 TimeStamp 4526.54643169154
-Sender: 0, Receiver: 1, Amount: 3 TimeStamp 4691.09134739533
-Sender: 0, Receiver: 2, Amount: 14 TimeStamp 4812.260389761802
-Sender: 0, Receiver: 2, Amount: 17 TimeStamp 4885.04928582927
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5095.328651213318
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 5352.6886647971005
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 5451.262147738224
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID0 pays ID2 25 coins
+TxnID: ID0 pays ID1 48 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
-Previous Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
+Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
+Previous Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
 Transactions:
-Sender: 1, Receiver: 0, Amount: 15 TimeStamp 4587.341286849987
-Sender: 1, Receiver: 2, Amount: 42 TimeStamp 4593.794637598344
-Sender: 1, Receiver: 3, Amount: 18 TimeStamp 4929.354693583539
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 5143.120214732079
-Sender: 1, Receiver: 0, Amount: 7 TimeStamp 5464.225196295675
-Sender: 1, Receiver: 2, Amount: 21 TimeStamp 5515.7108109508035
-Sender: 1, Receiver: 0, Amount: 35 TimeStamp 5644.590642581985
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 5682.565375674386
-Sender: 1, Receiver: 2, Amount: 11 TimeStamp 5719.564893738885
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 5842.120544604866
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 5944.661066208066
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID1 pays ID2 15 coins
+TxnID: ID1 pays ID2 40 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
-Previous Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
+Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Previous Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 4684.160815602129
-Sender: 2, Receiver: 3, Amount: 34 TimeStamp 4800.514348243331
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 4845.0019247820255
-Sender: 2, Receiver: 3, Amount: 40 TimeStamp 4880.318320766841
-Sender: 2, Receiver: 3, Amount: 8 TimeStamp 5453.657433388996
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 5558.414286595155
-Sender: 2, Receiver: 0, Amount: 41 TimeStamp 5626.0924326601535
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 5669.600437391241
-Sender: 2, Receiver: 1, Amount: 32 TimeStamp 5673.793466671407
-Sender: 2, Receiver: 3, Amount: 44 TimeStamp 5809.635091622627
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 6118.929261196861
+TxnID: ID3 pays ID2 6 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID2 pays ID0 32 coins
+TxnID: ID2 pays ID3 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 4ffca74d6b00759e8a9d98d7279412135c5f25f9
-Previous Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
+Block ID: de6a803a66472519ddf4822d445eab5b7694b1db
+Previous Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
 Transactions:
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5450.262147738224
-Sender: 0, Receiver: 3, Amount: 4 TimeStamp 5484.326087242117
-Sender: 0, Receiver: 2, Amount: 6 TimeStamp 5540.95754819333
-Sender: 0, Receiver: 2, Amount: 40 TimeStamp 5639.868875104565
-Sender: 0, Receiver: 2, Amount: 38 TimeStamp 5659.947125184362
-Sender: 0, Receiver: 2, Amount: 33 TimeStamp 5661.090601292534
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 5907.723247446765
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 6068.599225486245
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 6331.497999825496
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID0 pays ID2 47 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID0 pays ID3 32 coins
+TxnID: ID-1 pays ID3 50 coins
+
+Block ID: ce14846f2ae64085d79aed23caa2c3fb285393e4
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID0 pays ID1 40 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID3 pays ID0 32 coins
+TxnID: ID-1 pays ID1 50 coins
+
+Block ID: 4a38249cb12892e86e2f1102c26cf08f242cc939
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID1 pays ID3 38 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID2 45 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID-1 pays ID0 50 coins
+
+Block ID: d96188855aa50e2c144c6c590baab08ae3aa4d53
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID1 pays ID3 38 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID0 pays ID1 40 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID1 pays ID2 45 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID3 pays ID0 32 coins
+TxnID: ID3 pays ID1 24 coins
+TxnID: ID-1 pays ID2 50 coins
+
+Block ID: da39a3ee5e6b4b0d3255bfef95601890afd80709
+Previous Block ID: d96188855aa50e2c144c6c590baab08ae3aa4d53
+Transactions:
+TxnID: ID-1 pays ID2 50 coins
 
 Node 2 Blockchain:
 Block ID: 0
 Previous Block ID: None
 Transactions:
 
-Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
 Previous Block ID: 0
 Transactions:
-Sender: 2, Receiver: 1, Amount: 9 TimeStamp 0
-Sender: 2, Receiver: 0, Amount: 37 TimeStamp 211.4402310517871
-Sender: 2, Receiver: 1, Amount: 4 TimeStamp 564.4691829313081
-Sender: 2, Receiver: 3, Amount: 32 TimeStamp 721.7387381835806
-Sender: 2, Receiver: 3, Amount: 31 TimeStamp 910.3202735873122
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 1050.2780756058874
-Sender: 2, Receiver: 1, Amount: 38 TimeStamp 1083.0189641140169
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 1196.5214710102225
-Sender: 2, Receiver: 3, Amount: 26 TimeStamp 1279.994621846525
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 1325.1166906196638
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 1367.9784954824167
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID1 pays ID2 22 coins
+TxnID: ID1 pays ID2 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: ec815256cbd53c1aca7626c7575739fa7ffa1817
+Previous Block ID: 0
 Transactions:
-Sender: 0, Receiver: 1, Amount: 34 TimeStamp 0
-Sender: 0, Receiver: 3, Amount: 36 TimeStamp 231.71437159712187
-Sender: 0, Receiver: 1, Amount: 29 TimeStamp 389.6736916453382
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 434.86347461331724
-Sender: 0, Receiver: 1, Amount: 11 TimeStamp 801.031819122034
-Sender: 0, Receiver: 1, Amount: 7 TimeStamp 996.0172740653092
-Sender: 0, Receiver: 2, Amount: 29 TimeStamp 1035.662051866848
-Sender: 0, Receiver: 1, Amount: 17 TimeStamp 1083.6581836618807
-Sender: 0, Receiver: 1, Amount: 23 TimeStamp 1104.8809064609925
-Sender: 0, Receiver: 3, Amount: 18 TimeStamp 1340.516727956394
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 1559.2207118464992
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: dac58b7ee9fb4535ef3d5bbc79abdaaba3b66e0a
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
+Previous Block ID: 0
 Transactions:
-Sender: 3, Receiver: 2, Amount: 23 TimeStamp 0
-Sender: 3, Receiver: 0, Amount: 12 TimeStamp 10.129186512229147
-Sender: 3, Receiver: 0, Amount: 42 TimeStamp 53.65725202225437
-Sender: 3, Receiver: 0, Amount: 39 TimeStamp 60.89241034305722
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 779.9305044206727
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 863.022810427633
-Sender: 3, Receiver: 1, Amount: 20 TimeStamp 1252.8630915691515
-Sender: 3, Receiver: 0, Amount: 10 TimeStamp 1399.1300358389785
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 1417.00948365592
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 1513.5634077362924
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 1583.8987450131833
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
-Previous Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
+Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
+Previous Block ID: 0
 Transactions:
-Sender: 1, Receiver: 0, Amount: 50 TimeStamp 0
-Sender: 1, Receiver: 3, Amount: 20 TimeStamp 351.5995371805187
-Sender: 1, Receiver: 0, Amount: 38 TimeStamp 449.8178795183509
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 623.4651715983998
-Sender: 1, Receiver: 2, Amount: 44 TimeStamp 912.5006957983874
-Sender: 1, Receiver: 3, Amount: 40 TimeStamp 1162.728335085161
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 1797.1664491448469
-Sender: 1, Receiver: 3, Amount: 10 TimeStamp 1870.3017659247257
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 1874.1923242697649
-Sender: 1, Receiver: 2, Amount: 48 TimeStamp 2097.2295540264486
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 2130.810255855553
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: a61b319a3647a3b31e840f407eac3c28fe64bcf0
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
+Previous Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 1366.9784954824167
-Sender: 2, Receiver: 1, Amount: 37 TimeStamp 1531.7949197148841
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 1560.7502061155626
-Sender: 2, Receiver: 0, Amount: 21 TimeStamp 1863.059285429155
-Sender: 2, Receiver: 1, Amount: 12 TimeStamp 2057.586331753788
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 2073.9998024448346
-Sender: 2, Receiver: 1, Amount: 21 TimeStamp 2548.2017675473703
-Sender: 2, Receiver: 3, Amount: 1 TimeStamp 2685.477524164946
-Sender: 2, Receiver: 1, Amount: 2 TimeStamp 2722.1150534008925
-Sender: 2, Receiver: 3, Amount: 6 TimeStamp 2741.0706802445034
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 2771.125664024033
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: fef2b293c36e12cdcb21b9b3769f94361003dfab
+Previous Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
 Transactions:
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 1582.8987450131833
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 1604.7334298853996
-Sender: 3, Receiver: 0, Amount: 18 TimeStamp 1630.9470990277132
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1640.929661675817
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1807.234037213349
-Sender: 3, Receiver: 1, Amount: 5 TimeStamp 1807.970546998546
-Sender: 3, Receiver: 2, Amount: 7 TimeStamp 1961.007987424881
-Sender: 3, Receiver: 2, Amount: 47 TimeStamp 2225.3186990656386
-Sender: 3, Receiver: 2, Amount: 19 TimeStamp 2283.6906282335385
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 2558.822554079603
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 2598.808407175146
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
-Previous Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
+Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
+Previous Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
 Transactions:
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1558.2207118464992
-Sender: 0, Receiver: 1, Amount: 14 TimeStamp 1681.2523781909401
-Sender: 0, Receiver: 2, Amount: 25 TimeStamp 2242.3532194725276
-Sender: 0, Receiver: 2, Amount: 9 TimeStamp 2432.4877972891645
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 2452.612252113461
-Sender: 0, Receiver: 2, Amount: 44 TimeStamp 2480.932734188573
-Sender: 0, Receiver: 3, Amount: 40 TimeStamp 2513.4264878942395
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 2542.026636960431
-Sender: 0, Receiver: 3, Amount: 5 TimeStamp 2577.6858577607245
-Sender: 0, Receiver: 3, Amount: 28 TimeStamp 2671.876393821805
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 2918.0066180499234
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 480b859064ababa53653857c26da43ce8d11202e
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
+Previous Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
 Transactions:
-Sender: 2, Receiver: 0, Amount: 12 TimeStamp 2770.125664024033
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 2790.829284608529
-Sender: 2, Receiver: 3, Amount: 43 TimeStamp 2871.783257889354
-Sender: 2, Receiver: 3, Amount: 21 TimeStamp 2903.837113753175
-Sender: 2, Receiver: 3, Amount: 12 TimeStamp 2951.6537627067037
-Sender: 2, Receiver: 1, Amount: 5 TimeStamp 2966.0417862608297
-Sender: 2, Receiver: 1, Amount: 40 TimeStamp 3128.74039906932
-Sender: 2, Receiver: 3, Amount: 33 TimeStamp 3336.4497139030536
-Sender: 2, Receiver: 1, Amount: 8 TimeStamp 3416.7096239769485
-Sender: 2, Receiver: 1, Amount: 6 TimeStamp 3455.4255726925676
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 3608.4327871575133
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID1 pays ID0 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 275014db18f2a8a902794ee948e0cbbbc70baf7b
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
+Previous Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
 Transactions:
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 2597.808407175146
-Sender: 3, Receiver: 0, Amount: 27 TimeStamp 2785.1693879961895
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 2837.6693195625376
-Sender: 3, Receiver: 2, Amount: 36 TimeStamp 3006.577346006997
-Sender: 3, Receiver: 2, Amount: 9 TimeStamp 3057.676886973584
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 3087.2714206845203
-Sender: 3, Receiver: 1, Amount: 8 TimeStamp 3087.5692041117263
-Sender: 3, Receiver: 2, Amount: 39 TimeStamp 3317.084255885169
-Sender: 3, Receiver: 2, Amount: 5 TimeStamp 3319.7153262247402
-Sender: 3, Receiver: 0, Amount: 33 TimeStamp 3367.4791277264276
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 3536.130216001896
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID2 pays ID0 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 2c235fc4cfc05ee922040a883c1424baba5f332c
+Previous Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
 Transactions:
-Sender: 0, Receiver: 3, Amount: 23 TimeStamp 2917.0066180499234
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3073.568661599854
-Sender: 0, Receiver: 2, Amount: 48 TimeStamp 3146.5066574246466
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3161.9730074755153
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 3284.3118923559596
-Sender: 0, Receiver: 2, Amount: 3 TimeStamp 3374.451915867863
-Sender: 0, Receiver: 1, Amount: 10 TimeStamp 3380.602639284696
-Sender: 0, Receiver: 3, Amount: 49 TimeStamp 3381.6356643898157
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3526.50877226488
-Sender: 0, Receiver: 3, Amount: 19 TimeStamp 3585.9724683048785
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 3633.703407803741
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: cb063461f3fa40e948246b0c07555ba72a566934
-Previous Block ID: 480b859064ababa53653857c26da43ce8d11202e
+Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 2, Receiver: 1, Amount: 44 TimeStamp 3607.4327871575133
-Sender: 2, Receiver: 1, Amount: 1 TimeStamp 3806.928306272053
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 4031.827281379555
-Sender: 2, Receiver: 0, Amount: 29 TimeStamp 4057.0222030680825
-Sender: 2, Receiver: 3, Amount: 5 TimeStamp 4080.9860642579606
-Sender: 2, Receiver: 0, Amount: 32 TimeStamp 4106.921770348615
-Sender: 2, Receiver: 1, Amount: 26 TimeStamp 4241.108488869627
-Sender: 2, Receiver: 0, Amount: 20 TimeStamp 4410.228811525716
-Sender: 2, Receiver: 1, Amount: 34 TimeStamp 4465.320232811577
-Sender: 2, Receiver: 3, Amount: 19 TimeStamp 4652.018189460976
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 4685.160815602129
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID2 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
-Previous Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
+Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 2129.810255855553
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 2265.8161750214067
-Sender: 1, Receiver: 2, Amount: 35 TimeStamp 2468.532707767321
-Sender: 1, Receiver: 0, Amount: 11 TimeStamp 2626.3437996874145
-Sender: 1, Receiver: 3, Amount: 28 TimeStamp 3547.5832099817117
-Sender: 1, Receiver: 0, Amount: 47 TimeStamp 3694.8250827804777
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 3803.1509437283935
-Sender: 1, Receiver: 2, Amount: 8 TimeStamp 4103.319012226016
-Sender: 1, Receiver: 0, Amount: 13 TimeStamp 4104.059373234161
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 4219.422544055673
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 4588.341286849987
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
-Previous Block ID: cb063461f3fa40e948246b0c07555ba72a566934
+Block ID: 5369be25e79b608eae4d4ceaf5effb46422fad08
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 3, Receiver: 0, Amount: 31 TimeStamp 3535.130216001896
-Sender: 3, Receiver: 2, Amount: 34 TimeStamp 4225.44350451206
-Sender: 3, Receiver: 0, Amount: 34 TimeStamp 4310.937411040863
-Sender: 3, Receiver: 0, Amount: 44 TimeStamp 4455.333813971398
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 4460.17649611427
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 4566.307056423376
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 4732.087114412732
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 4750.960133745156
-Sender: 3, Receiver: 0, Amount: 48 TimeStamp 4882.676331835484
-Sender: 3, Receiver: 0, Amount: 38 TimeStamp 5023.720120695743
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 5301.749828178816
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: c703c9393dd940a539ec8b11395fa9253d008af7
-Previous Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
+Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
+Previous Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
 Transactions:
-Sender: 0, Receiver: 3, Amount: 6 TimeStamp 3632.703407803741
-Sender: 0, Receiver: 3, Amount: 44 TimeStamp 3886.866694383516
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3977.883185667234
-Sender: 0, Receiver: 2, Amount: 31 TimeStamp 4450.258976139673
-Sender: 0, Receiver: 1, Amount: 38 TimeStamp 4526.54643169154
-Sender: 0, Receiver: 1, Amount: 3 TimeStamp 4691.09134739533
-Sender: 0, Receiver: 2, Amount: 14 TimeStamp 4812.260389761802
-Sender: 0, Receiver: 2, Amount: 17 TimeStamp 4885.04928582927
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5095.328651213318
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 5352.6886647971005
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 5451.262147738224
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID1 pays ID2 15 coins
+TxnID: ID1 pays ID2 40 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
-Previous Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
+Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
+Previous Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
 Transactions:
-Sender: 1, Receiver: 0, Amount: 15 TimeStamp 4587.341286849987
-Sender: 1, Receiver: 2, Amount: 42 TimeStamp 4593.794637598344
-Sender: 1, Receiver: 3, Amount: 18 TimeStamp 4929.354693583539
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 5143.120214732079
-Sender: 1, Receiver: 0, Amount: 7 TimeStamp 5464.225196295675
-Sender: 1, Receiver: 2, Amount: 21 TimeStamp 5515.7108109508035
-Sender: 1, Receiver: 0, Amount: 35 TimeStamp 5644.590642581985
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 5682.565375674386
-Sender: 1, Receiver: 2, Amount: 11 TimeStamp 5719.564893738885
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 5842.120544604866
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 5944.661066208066
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID0 pays ID2 25 coins
+TxnID: ID0 pays ID1 48 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
-Previous Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
+Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Previous Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 4684.160815602129
-Sender: 2, Receiver: 3, Amount: 34 TimeStamp 4800.514348243331
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 4845.0019247820255
-Sender: 2, Receiver: 3, Amount: 40 TimeStamp 4880.318320766841
-Sender: 2, Receiver: 3, Amount: 8 TimeStamp 5453.657433388996
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 5558.414286595155
-Sender: 2, Receiver: 0, Amount: 41 TimeStamp 5626.0924326601535
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 5669.600437391241
-Sender: 2, Receiver: 1, Amount: 32 TimeStamp 5673.793466671407
-Sender: 2, Receiver: 3, Amount: 44 TimeStamp 5809.635091622627
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 6118.929261196861
+TxnID: ID3 pays ID2 6 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID2 pays ID0 32 coins
+TxnID: ID2 pays ID3 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 4ffca74d6b00759e8a9d98d7279412135c5f25f9
-Previous Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
+Block ID: de6a803a66472519ddf4822d445eab5b7694b1db
+Previous Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
 Transactions:
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5450.262147738224
-Sender: 0, Receiver: 3, Amount: 4 TimeStamp 5484.326087242117
-Sender: 0, Receiver: 2, Amount: 6 TimeStamp 5540.95754819333
-Sender: 0, Receiver: 2, Amount: 40 TimeStamp 5639.868875104565
-Sender: 0, Receiver: 2, Amount: 38 TimeStamp 5659.947125184362
-Sender: 0, Receiver: 2, Amount: 33 TimeStamp 5661.090601292534
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 5907.723247446765
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 6068.599225486245
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 6331.497999825496
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID0 pays ID2 47 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID0 pays ID3 32 coins
+TxnID: ID-1 pays ID3 50 coins
+
+Block ID: d96188855aa50e2c144c6c590baab08ae3aa4d53
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID1 pays ID3 38 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID0 pays ID1 40 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID1 pays ID2 45 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID3 pays ID0 32 coins
+TxnID: ID3 pays ID1 24 coins
+TxnID: ID-1 pays ID2 50 coins
+
+Block ID: da39a3ee5e6b4b0d3255bfef95601890afd80709
+Previous Block ID: d96188855aa50e2c144c6c590baab08ae3aa4d53
+Transactions:
+TxnID: ID-1 pays ID2 50 coins
+
+Block ID: 4a38249cb12892e86e2f1102c26cf08f242cc939
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID1 pays ID3 38 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID2 45 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID-1 pays ID0 50 coins
+
+Block ID: ce14846f2ae64085d79aed23caa2c3fb285393e4
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID0 pays ID1 40 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID3 pays ID0 32 coins
+TxnID: ID-1 pays ID1 50 coins
 
 Node 3 Blockchain:
 Block ID: 0
 Previous Block ID: None
 Transactions:
 
-Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
 Previous Block ID: 0
 Transactions:
-Sender: 2, Receiver: 1, Amount: 9 TimeStamp 0
-Sender: 2, Receiver: 0, Amount: 37 TimeStamp 211.4402310517871
-Sender: 2, Receiver: 1, Amount: 4 TimeStamp 564.4691829313081
-Sender: 2, Receiver: 3, Amount: 32 TimeStamp 721.7387381835806
-Sender: 2, Receiver: 3, Amount: 31 TimeStamp 910.3202735873122
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 1050.2780756058874
-Sender: 2, Receiver: 1, Amount: 38 TimeStamp 1083.0189641140169
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 1196.5214710102225
-Sender: 2, Receiver: 3, Amount: 26 TimeStamp 1279.994621846525
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 1325.1166906196638
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 1367.9784954824167
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: dac58b7ee9fb4535ef3d5bbc79abdaaba3b66e0a
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
+Previous Block ID: 0
 Transactions:
-Sender: 3, Receiver: 2, Amount: 23 TimeStamp 0
-Sender: 3, Receiver: 0, Amount: 12 TimeStamp 10.129186512229147
-Sender: 3, Receiver: 0, Amount: 42 TimeStamp 53.65725202225437
-Sender: 3, Receiver: 0, Amount: 39 TimeStamp 60.89241034305722
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 779.9305044206727
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 863.022810427633
-Sender: 3, Receiver: 1, Amount: 20 TimeStamp 1252.8630915691515
-Sender: 3, Receiver: 0, Amount: 10 TimeStamp 1399.1300358389785
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 1417.00948365592
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 1513.5634077362924
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 1583.8987450131833
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
-Previous Block ID: e50271f91ca9bd5d71a249c31f5a12efcec59e70
+Block ID: ec815256cbd53c1aca7626c7575739fa7ffa1817
+Previous Block ID: 0
 Transactions:
-Sender: 0, Receiver: 1, Amount: 34 TimeStamp 0
-Sender: 0, Receiver: 3, Amount: 36 TimeStamp 231.71437159712187
-Sender: 0, Receiver: 1, Amount: 29 TimeStamp 389.6736916453382
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 434.86347461331724
-Sender: 0, Receiver: 1, Amount: 11 TimeStamp 801.031819122034
-Sender: 0, Receiver: 1, Amount: 7 TimeStamp 996.0172740653092
-Sender: 0, Receiver: 2, Amount: 29 TimeStamp 1035.662051866848
-Sender: 0, Receiver: 1, Amount: 17 TimeStamp 1083.6581836618807
-Sender: 0, Receiver: 1, Amount: 23 TimeStamp 1104.8809064609925
-Sender: 0, Receiver: 3, Amount: 18 TimeStamp 1340.516727956394
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 1559.2207118464992
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID2 pays ID1 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID2 pays ID0 11 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID2 pays ID0 35 coins
+TxnID: ID2 pays ID3 8 coins
+TxnID: ID2 pays ID0 27 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
-Previous Block ID: 2340a49c9a58e470d6f604042ab253c4ad6c00bc
+Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
+Previous Block ID: 0
 Transactions:
-Sender: 1, Receiver: 0, Amount: 50 TimeStamp 0
-Sender: 1, Receiver: 3, Amount: 20 TimeStamp 351.5995371805187
-Sender: 1, Receiver: 0, Amount: 38 TimeStamp 449.8178795183509
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 623.4651715983998
-Sender: 1, Receiver: 2, Amount: 44 TimeStamp 912.5006957983874
-Sender: 1, Receiver: 3, Amount: 40 TimeStamp 1162.728335085161
-Sender: 1, Receiver: 2, Amount: 27 TimeStamp 1797.1664491448469
-Sender: 1, Receiver: 3, Amount: 10 TimeStamp 1870.3017659247257
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 1874.1923242697649
-Sender: 1, Receiver: 2, Amount: 48 TimeStamp 2097.2295540264486
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 2130.810255855553
+TxnID: ID0 pays ID2 8 coins
+TxnID: ID0 pays ID2 42 coins
+TxnID: ID1 pays ID2 36 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID0 30 coins
+TxnID: ID1 pays ID2 42 coins
+TxnID: ID3 pays ID1 31 coins
+TxnID: ID1 pays ID2 22 coins
+TxnID: ID1 pays ID2 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: fef2b293c36e12cdcb21b9b3769f94361003dfab
+Previous Block ID: eb1c2611370634676dd2432682b3b262e3787a6f
 Transactions:
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 1582.8987450131833
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 1604.7334298853996
-Sender: 3, Receiver: 0, Amount: 18 TimeStamp 1630.9470990277132
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1640.929661675817
-Sender: 3, Receiver: 1, Amount: 11 TimeStamp 1807.234037213349
-Sender: 3, Receiver: 1, Amount: 5 TimeStamp 1807.970546998546
-Sender: 3, Receiver: 2, Amount: 7 TimeStamp 1961.007987424881
-Sender: 3, Receiver: 2, Amount: 47 TimeStamp 2225.3186990656386
-Sender: 3, Receiver: 2, Amount: 19 TimeStamp 2283.6906282335385
-Sender: 3, Receiver: 2, Amount: 43 TimeStamp 2558.822554079603
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 2598.808407175146
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: a61b319a3647a3b31e840f407eac3c28fe64bcf0
-Previous Block ID: 05bd94881bbafe9f74854e562b882108924d23f0
+Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
+Previous Block ID: a8e9d7ac19cbb2c472b1af5844ca6365e28d077f
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 1366.9784954824167
-Sender: 2, Receiver: 1, Amount: 37 TimeStamp 1531.7949197148841
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 1560.7502061155626
-Sender: 2, Receiver: 0, Amount: 21 TimeStamp 1863.059285429155
-Sender: 2, Receiver: 1, Amount: 12 TimeStamp 2057.586331753788
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 2073.9998024448346
-Sender: 2, Receiver: 1, Amount: 21 TimeStamp 2548.2017675473703
-Sender: 2, Receiver: 3, Amount: 1 TimeStamp 2685.477524164946
-Sender: 2, Receiver: 1, Amount: 2 TimeStamp 2722.1150534008925
-Sender: 2, Receiver: 3, Amount: 6 TimeStamp 2741.0706802445034
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 2771.125664024033
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID2 pays ID1 28 coins
+TxnID: ID2 pays ID3 6 coins
+TxnID: ID2 pays ID3 49 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
-Previous Block ID: 5b0e85287bfb88a50430f1c3c19a4f40dd0453c3
+Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
+Previous Block ID: 21ce0d0b1154094a2ca928860886eaa9a4a498b6
 Transactions:
-Sender: 0, Receiver: 2, Amount: 49 TimeStamp 1558.2207118464992
-Sender: 0, Receiver: 1, Amount: 14 TimeStamp 1681.2523781909401
-Sender: 0, Receiver: 2, Amount: 25 TimeStamp 2242.3532194725276
-Sender: 0, Receiver: 2, Amount: 9 TimeStamp 2432.4877972891645
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 2452.612252113461
-Sender: 0, Receiver: 2, Amount: 44 TimeStamp 2480.932734188573
-Sender: 0, Receiver: 3, Amount: 40 TimeStamp 2513.4264878942395
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 2542.026636960431
-Sender: 0, Receiver: 3, Amount: 5 TimeStamp 2577.6858577607245
-Sender: 0, Receiver: 3, Amount: 28 TimeStamp 2671.876393821805
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 2918.0066180499234
+TxnID: ID0 pays ID1 14 coins
+TxnID: ID3 pays ID1 35 coins
+TxnID: ID0 pays ID2 28 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID1 pays ID2 1 coins
+TxnID: ID3 pays ID1 9 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID1 pays ID3 46 coins
+TxnID: ID0 pays ID2 49 coins
+TxnID: ID0 pays ID3 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 275014db18f2a8a902794ee948e0cbbbc70baf7b
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
+Previous Block ID: e7308d4ac8023dad3a30a18252a3a017078937e1
 Transactions:
-Sender: 3, Receiver: 1, Amount: 43 TimeStamp 2597.808407175146
-Sender: 3, Receiver: 0, Amount: 27 TimeStamp 2785.1693879961895
-Sender: 3, Receiver: 2, Amount: 10 TimeStamp 2837.6693195625376
-Sender: 3, Receiver: 2, Amount: 36 TimeStamp 3006.577346006997
-Sender: 3, Receiver: 2, Amount: 9 TimeStamp 3057.676886973584
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 3087.2714206845203
-Sender: 3, Receiver: 1, Amount: 8 TimeStamp 3087.5692041117263
-Sender: 3, Receiver: 2, Amount: 39 TimeStamp 3317.084255885169
-Sender: 3, Receiver: 2, Amount: 5 TimeStamp 3319.7153262247402
-Sender: 3, Receiver: 0, Amount: 33 TimeStamp 3367.4791277264276
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 3536.130216001896
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID2 pays ID0 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 480b859064ababa53653857c26da43ce8d11202e
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
+Previous Block ID: 694ba89b2ab5d5ac1682f2979e0db4dfa2a99e38
 Transactions:
-Sender: 2, Receiver: 0, Amount: 12 TimeStamp 2770.125664024033
-Sender: 2, Receiver: 1, Amount: 42 TimeStamp 2790.829284608529
-Sender: 2, Receiver: 3, Amount: 43 TimeStamp 2871.783257889354
-Sender: 2, Receiver: 3, Amount: 21 TimeStamp 2903.837113753175
-Sender: 2, Receiver: 3, Amount: 12 TimeStamp 2951.6537627067037
-Sender: 2, Receiver: 1, Amount: 5 TimeStamp 2966.0417862608297
-Sender: 2, Receiver: 1, Amount: 40 TimeStamp 3128.74039906932
-Sender: 2, Receiver: 3, Amount: 33 TimeStamp 3336.4497139030536
-Sender: 2, Receiver: 1, Amount: 8 TimeStamp 3416.7096239769485
-Sender: 2, Receiver: 1, Amount: 6 TimeStamp 3455.4255726925676
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 3608.4327871575133
+TxnID: ID0 pays ID1 1 coins
+TxnID: ID3 pays ID0 46 coins
+TxnID: ID0 pays ID3 10 coins
+TxnID: ID0 pays ID3 6 coins
+TxnID: ID3 pays ID0 26 coins
+TxnID: ID3 pays ID0 43 coins
+TxnID: ID3 pays ID2 43 coins
+TxnID: ID0 pays ID2 17 coins
+TxnID: ID0 pays ID2 9 coins
+TxnID: ID1 pays ID0 13 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
-Previous Block ID: d0b23052b84054d753ca4e7507aaa4f37b67cf6c
+Block ID: 5369be25e79b608eae4d4ceaf5effb46422fad08
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 0, Receiver: 3, Amount: 23 TimeStamp 2917.0066180499234
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3073.568661599854
-Sender: 0, Receiver: 2, Amount: 48 TimeStamp 3146.5066574246466
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3161.9730074755153
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 3284.3118923559596
-Sender: 0, Receiver: 2, Amount: 3 TimeStamp 3374.451915867863
-Sender: 0, Receiver: 1, Amount: 10 TimeStamp 3380.602639284696
-Sender: 0, Receiver: 3, Amount: 49 TimeStamp 3381.6356643898157
-Sender: 0, Receiver: 3, Amount: 32 TimeStamp 3526.50877226488
-Sender: 0, Receiver: 3, Amount: 19 TimeStamp 3585.9724683048785
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 3633.703407803741
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: cb063461f3fa40e948246b0c07555ba72a566934
-Previous Block ID: 480b859064ababa53653857c26da43ce8d11202e
+Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 2, Receiver: 1, Amount: 44 TimeStamp 3607.4327871575133
-Sender: 2, Receiver: 1, Amount: 1 TimeStamp 3806.928306272053
-Sender: 2, Receiver: 0, Amount: 33 TimeStamp 4031.827281379555
-Sender: 2, Receiver: 0, Amount: 29 TimeStamp 4057.0222030680825
-Sender: 2, Receiver: 3, Amount: 5 TimeStamp 4080.9860642579606
-Sender: 2, Receiver: 0, Amount: 32 TimeStamp 4106.921770348615
-Sender: 2, Receiver: 1, Amount: 26 TimeStamp 4241.108488869627
-Sender: 2, Receiver: 0, Amount: 20 TimeStamp 4410.228811525716
-Sender: 2, Receiver: 1, Amount: 34 TimeStamp 4465.320232811577
-Sender: 2, Receiver: 3, Amount: 19 TimeStamp 4652.018189460976
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 4685.160815602129
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
-Previous Block ID: 142560682a4ae10c0fc8110c09cf8013ce800d9a
+Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
+Previous Block ID: 59c07ad44d06453d71fa8ca8a7f088fe0a9f10a6
 Transactions:
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 2129.810255855553
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 2265.8161750214067
-Sender: 1, Receiver: 2, Amount: 35 TimeStamp 2468.532707767321
-Sender: 1, Receiver: 0, Amount: 11 TimeStamp 2626.3437996874145
-Sender: 1, Receiver: 3, Amount: 28 TimeStamp 3547.5832099817117
-Sender: 1, Receiver: 0, Amount: 47 TimeStamp 3694.8250827804777
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 3803.1509437283935
-Sender: 1, Receiver: 2, Amount: 8 TimeStamp 4103.319012226016
-Sender: 1, Receiver: 0, Amount: 13 TimeStamp 4104.059373234161
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 4219.422544055673
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 4588.341286849987
+TxnID: ID2 pays ID0 37 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID2 pays ID1 11 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID3 pays ID2 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
-Previous Block ID: cb063461f3fa40e948246b0c07555ba72a566934
+Block ID: 2c235fc4cfc05ee922040a883c1424baba5f332c
+Previous Block ID: 5f03ed9025d805b96274e5aae8c70dd45fc5d816
 Transactions:
-Sender: 3, Receiver: 0, Amount: 31 TimeStamp 3535.130216001896
-Sender: 3, Receiver: 2, Amount: 34 TimeStamp 4225.44350451206
-Sender: 3, Receiver: 0, Amount: 34 TimeStamp 4310.937411040863
-Sender: 3, Receiver: 0, Amount: 44 TimeStamp 4455.333813971398
-Sender: 3, Receiver: 2, Amount: 48 TimeStamp 4460.17649611427
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 4566.307056423376
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 4732.087114412732
-Sender: 3, Receiver: 2, Amount: 31 TimeStamp 4750.960133745156
-Sender: 3, Receiver: 0, Amount: 48 TimeStamp 4882.676331835484
-Sender: 3, Receiver: 0, Amount: 38 TimeStamp 5023.720120695743
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 5301.749828178816
+TxnID: ID0 pays ID3 30 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID1 pays ID0 27 coins
+TxnID: ID3 pays ID1 41 coins
+TxnID: ID0 pays ID2 40 coins
+TxnID: ID3 pays ID2 29 coins
+TxnID: ID0 pays ID3 14 coins
+TxnID: ID3 pays ID0 9 coins
+TxnID: ID0 pays ID3 34 coins
+TxnID: ID1 pays ID0 40 coins
+TxnID: ID-1 pays ID2 50 coins
 
-Block ID: c703c9393dd940a539ec8b11395fa9253d008af7
-Previous Block ID: 69d74442b0f5cda8e5c960d8cb2e90e176bf214c
+Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
+Previous Block ID: 99ab06bd0d3f478b88184b28d0cb8fca0625c8a3
 Transactions:
-Sender: 0, Receiver: 3, Amount: 6 TimeStamp 3632.703407803741
-Sender: 0, Receiver: 3, Amount: 44 TimeStamp 3886.866694383516
-Sender: 0, Receiver: 2, Amount: 47 TimeStamp 3977.883185667234
-Sender: 0, Receiver: 2, Amount: 31 TimeStamp 4450.258976139673
-Sender: 0, Receiver: 1, Amount: 38 TimeStamp 4526.54643169154
-Sender: 0, Receiver: 1, Amount: 3 TimeStamp 4691.09134739533
-Sender: 0, Receiver: 2, Amount: 14 TimeStamp 4812.260389761802
-Sender: 0, Receiver: 2, Amount: 17 TimeStamp 4885.04928582927
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5095.328651213318
-Sender: 0, Receiver: 1, Amount: 19 TimeStamp 5352.6886647971005
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 5451.262147738224
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID0 pays ID2 25 coins
+TxnID: ID0 pays ID1 48 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID1 50 coins
 
-Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
-Previous Block ID: 9fd152f3ae2e2cf273b98667b462824bb98db3bd
+Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
+Previous Block ID: 65e6c6bc7de9e72a76643fc85ae1ebb002a8b986
 Transactions:
-Sender: 1, Receiver: 0, Amount: 15 TimeStamp 4587.341286849987
-Sender: 1, Receiver: 2, Amount: 42 TimeStamp 4593.794637598344
-Sender: 1, Receiver: 3, Amount: 18 TimeStamp 4929.354693583539
-Sender: 1, Receiver: 2, Amount: 34 TimeStamp 5143.120214732079
-Sender: 1, Receiver: 0, Amount: 7 TimeStamp 5464.225196295675
-Sender: 1, Receiver: 2, Amount: 21 TimeStamp 5515.7108109508035
-Sender: 1, Receiver: 0, Amount: 35 TimeStamp 5644.590642581985
-Sender: 1, Receiver: 2, Amount: 32 TimeStamp 5682.565375674386
-Sender: 1, Receiver: 2, Amount: 11 TimeStamp 5719.564893738885
-Sender: 1, Receiver: 3, Amount: 24 TimeStamp 5842.120544604866
-Sender: -1, Receiver: 1, Amount: 50 TimeStamp 5944.661066208066
+TxnID: ID3 pays ID2 36 coins
+TxnID: ID2 pays ID3 13 coins
+TxnID: ID2 pays ID3 35 coins
+TxnID: ID2 pays ID3 24 coins
+TxnID: ID1 pays ID2 15 coins
+TxnID: ID1 pays ID2 40 coins
+TxnID: ID2 pays ID1 27 coins
+TxnID: ID3 pays ID1 36 coins
+TxnID: ID2 pays ID0 12 coins
+TxnID: ID3 pays ID1 40 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
-Previous Block ID: fc14b41504cbdeedd8fd8425cd23a02e72242f34
+Block ID: de6a803a66472519ddf4822d445eab5b7694b1db
+Previous Block ID: 4c446e7613fa706f05ce0317a58b61c6cfa69e18
 Transactions:
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 4684.160815602129
-Sender: 2, Receiver: 3, Amount: 34 TimeStamp 4800.514348243331
-Sender: 2, Receiver: 0, Amount: 38 TimeStamp 4845.0019247820255
-Sender: 2, Receiver: 3, Amount: 40 TimeStamp 4880.318320766841
-Sender: 2, Receiver: 3, Amount: 8 TimeStamp 5453.657433388996
-Sender: 2, Receiver: 0, Amount: 11 TimeStamp 5558.414286595155
-Sender: 2, Receiver: 0, Amount: 41 TimeStamp 5626.0924326601535
-Sender: 2, Receiver: 3, Amount: 25 TimeStamp 5669.600437391241
-Sender: 2, Receiver: 1, Amount: 32 TimeStamp 5673.793466671407
-Sender: 2, Receiver: 3, Amount: 44 TimeStamp 5809.635091622627
-Sender: -1, Receiver: 2, Amount: 50 TimeStamp 6118.929261196861
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID0 pays ID2 47 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID0 pays ID1 27 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID0 pays ID3 32 coins
+TxnID: ID-1 pays ID3 50 coins
 
-Block ID: 4ffca74d6b00759e8a9d98d7279412135c5f25f9
-Previous Block ID: 350566d092be6cb74a362ff21f502918739b7ba6
+Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Previous Block ID: 53bce5e7876b15b17e1bf40c8ed48555da2495f3
 Transactions:
-Sender: 0, Receiver: 1, Amount: 47 TimeStamp 5450.262147738224
-Sender: 0, Receiver: 3, Amount: 4 TimeStamp 5484.326087242117
-Sender: 0, Receiver: 2, Amount: 6 TimeStamp 5540.95754819333
-Sender: 0, Receiver: 2, Amount: 40 TimeStamp 5639.868875104565
-Sender: 0, Receiver: 2, Amount: 38 TimeStamp 5659.947125184362
-Sender: 0, Receiver: 2, Amount: 33 TimeStamp 5661.090601292534
-Sender: 0, Receiver: 1, Amount: 9 TimeStamp 5907.723247446765
-Sender: 0, Receiver: 3, Amount: 2 TimeStamp 6068.599225486245
-Sender: -1, Receiver: 0, Amount: 50 TimeStamp 6331.497999825496
+TxnID: ID3 pays ID2 6 coins
+TxnID: ID1 pays ID2 10 coins
+TxnID: ID2 pays ID1 31 coins
+TxnID: ID1 pays ID2 6 coins
+TxnID: ID2 pays ID1 24 coins
+TxnID: ID1 pays ID3 34 coins
+TxnID: ID1 pays ID3 31 coins
+TxnID: ID1 pays ID0 6 coins
+TxnID: ID2 pays ID0 32 coins
+TxnID: ID2 pays ID3 2 coins
+TxnID: ID-1 pays ID0 50 coins
 
-Block ID: 3db3e423d4e84a8ed25a475a90a4a7ace105c3b2
-Previous Block ID: 4ffca74d6b00759e8a9d98d7279412135c5f25f9
+Block ID: ce14846f2ae64085d79aed23caa2c3fb285393e4
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
 Transactions:
-Sender: 3, Receiver: 2, Amount: 14 TimeStamp 5300.749828178816
-Sender: 3, Receiver: 1, Amount: 32 TimeStamp 5448.860907596918
-Sender: 3, Receiver: 2, Amount: 16 TimeStamp 5604.692600536561
-Sender: 3, Receiver: 0, Amount: 47 TimeStamp 5643.78156689537
-Sender: 3, Receiver: 0, Amount: 22 TimeStamp 5942.771449450363
-Sender: 3, Receiver: 0, Amount: 29 TimeStamp 6039.036054347758
-Sender: 3, Receiver: 1, Amount: 35 TimeStamp 6042.630595009708
-Sender: 3, Receiver: 2, Amount: 41 TimeStamp 6140.662724961209
-Sender: 3, Receiver: 1, Amount: 39 TimeStamp 6450.3253185659905
-Sender: 3, Receiver: 0, Amount: 13 TimeStamp 6576.081400241654
-Sender: -1, Receiver: 3, Amount: 50 TimeStamp 6844.412885111461
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID0 pays ID1 40 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID3 pays ID0 32 coins
+TxnID: ID-1 pays ID1 50 coins
+
+Block ID: 4a38249cb12892e86e2f1102c26cf08f242cc939
+Previous Block ID: cf4fe76bb1b1a3540bfa43ad5761a82d1c4cf561
+Transactions:
+TxnID: ID2 pays ID3 30 coins
+TxnID: ID1 pays ID3 38 coins
+TxnID: ID3 pays ID1 5 coins
+TxnID: ID2 pays ID3 34 coins
+TxnID: ID3 pays ID2 28 coins
+TxnID: ID2 pays ID0 49 coins
+TxnID: ID1 pays ID2 45 coins
+TxnID: ID3 pays ID1 22 coins
+TxnID: ID2 pays ID1 3 coins
+TxnID: ID3 pays ID1 48 coins
+TxnID: ID-1 pays ID0 50 coins
+
+Block ID: da39a3ee5e6b4b0d3255bfef95601890afd80709
+Previous Block ID: d96188855aa50e2c144c6c590baab08ae3aa4d53
+Transactions:
+TxnID: ID-1 pays ID2 50 coins
 
