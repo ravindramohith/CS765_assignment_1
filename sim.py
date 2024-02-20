@@ -63,6 +63,7 @@ class Simulator:
         self.graph = generate_connected_graph(n)
         speeds = self.generate_array_random(n, z0)
         CPU_speeds = self.generate_array_random(n, z1)
+
         print(speeds, CPU_speeds)
         self.h = 1 / (n + 9 * sum(CPU_speeds))
 
@@ -95,6 +96,7 @@ class Simulator:
         self.max_events = max_events
 
     def generate_array_random(self, n, z):
+        z = 1-z
         num_ones = int(n * z)
         num_zeros = n - num_ones
         array = [1] * num_ones + [0] * num_zeros
@@ -463,12 +465,12 @@ class Transaction:
 
 
 simulator = Simulator(
-    4,
-    0.2,
+    5,
     0.5,
-    min_transactions_per_mining=2,
-    transaction_mean_gap=15000,
-    max_events=100,
+    0.5,
+    min_transactions_per_mining=10,
+    transaction_mean_gap=1000,
+    max_events=1000,
 )
 
 simulator.simulate()
