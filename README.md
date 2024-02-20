@@ -4,6 +4,10 @@
 Make sure python v3 is installed on your system.
 
 ## **Running instructions:**
+- Navigate to code directory:
+
+`$ cd code/`
+
 - basic command to run event simulator:
 
 `$ python3 main.py --peers [PEERS] --z0 [Z0] --z1 [Z1] --transaction-mean-gap [TRANSATIONMEANGAP]`
