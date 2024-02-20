@@ -27,4 +27,4 @@ Z1 - z1 fraction of low CPU speed distribution
 TRANSACTIONMEANGAP - transaction mean time.
 
 - to visualize graph of nodes:
-    `$ python3 graph.py`
+    `$ python3 graph.py --generate`
