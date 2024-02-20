@@ -8,7 +8,7 @@ if __name__ == "__main__":
         float(sys.argv[6]),
         min_transactions_per_mining=10,
         transaction_mean_gap=int(sys.argv[8]),
-        max_events=1000,
+        max_events=10000,
     )
 
     simulator.simulate()

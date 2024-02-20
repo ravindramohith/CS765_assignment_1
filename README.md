@@ -20,9 +20,9 @@ Make sure python v3 is installed on your system.
 
 PEERS - No.of peers
 
-Z0 - z0 probability of low speed distribution
+Z0 - z0 fraction of low speed distribution
 
-Z1 - z1 probability of low CPU speed distribution
+Z1 - z1 fraction of low CPU speed distribution
 
 TRANSACTIONMEANGAP - transaction mean time.
 

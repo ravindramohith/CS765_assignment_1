@@ -1,6 +1,7 @@
 import hashlib
 import matplotlib.pyplot as plt
 import networkx as nx
+from datetime import datetime
 
 
 class Block:
@@ -65,7 +66,6 @@ class Blockchain:
                 return block
         return None
 
-
     def visualize(self, node_id):
         G = nx.DiGraph()
 
@@ -77,7 +77,7 @@ class Blockchain:
         block_info = {block.block_id: block for block in self.blocks}
 
         plt.figure(figsize=(20, 10))  # Full screen mode
-        pos = nx.spring_layout(G)
+        pos = nx.kamada_kawai_layout(G)
 
         # Draw nodes for each block
         for i, node in enumerate(G.nodes()):
@@ -87,7 +87,6 @@ class Blockchain:
                 pos,
                 nodelist=[node],
                 node_size=1000,
-                node_shape="s",
                 node_color="red" if block.block_id == "0" else "lightgreen",
                 edgecolors="black",
             )
@@ -122,4 +121,5 @@ class Blockchain:
 
         plt.title(f"Peer {node_id}'s Blockchain Visualization")
         plt.axis("off")
+        plt.savefig(f"blockchain_{node_id}_{datetime.now()}.png")
         plt.show()
