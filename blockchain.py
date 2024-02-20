@@ -121,5 +121,4 @@ class Blockchain:
 
         plt.title(f"Peer {node_id}'s Blockchain Visualization")
         plt.axis("off")
-        plt.savefig(f"blockchain_{node_id}_{datetime.now()}.png")
         plt.show()
